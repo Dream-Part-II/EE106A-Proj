@@ -1,2 +1,2 @@
-# EE106A-Proj
-# A class robot project
+# Solving Rubik's Cube with Baxter Robot
+UC Berkeley EE 106A
